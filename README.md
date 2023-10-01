@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkarshadley
-- 👀 I’m interested in developing wb programing
+- 👀 I’m interested in developing web Developing
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate any website
 - 📫 How to reach me e-mail id:-utkarshuk4@gmail.com
