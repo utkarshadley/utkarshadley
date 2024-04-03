@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarshadley
-- 👀 I’m interested in developing web Developing
-- 🌱 I’m currently learning java script
+- 👀 I’m interested in developing machine learning
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate any website
 - 📫 How to reach me e-mail id:-utkarshuk4@gmail.com
 
