@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarshadley
+- 👋 Hi, I’m @utkarsh
 - 👀 I’m interested in Data Science Field And Also in AI
 - 🌱 I’m currently learning python With AI
 - 💞️ I’m looking to collaborate any website
