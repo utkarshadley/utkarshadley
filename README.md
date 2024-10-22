@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarshadley
-- 👀 I’m interested in developing machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data Science Field And Also in AI
+- 🌱 I’m currently learning python With AI
 - 💞️ I’m looking to collaborate any website
 - 📫 How to reach me e-mail id:-utkarshuk4@gmail.com
 - My instaagram id-@utkarshadley
