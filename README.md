@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate any website
 - 📫 How to reach me e-mail id:-utkarshuk4@gmail.com
-- My instaagram id-utkarshadley
+- My instaagram id-@utkarshadley
   
 
 <!---
